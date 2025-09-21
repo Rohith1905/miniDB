@@ -155,9 +155,11 @@ compile-errors.txt
 errors-detailed.txt
 errors.log
 maven-errors.txt
+git-notes.txt
 
 # ===========================
 # Custom MiniDB
 # ===========================
 # Add any custom MiniDB-specific files here
 sources.txt
+
