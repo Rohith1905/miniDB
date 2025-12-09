@@ -1,6 +1,6 @@
 # MiniDB - Quick Start
 
-## 🚀 Quick Start (30 seconds)
+## 🚀 Quick Start
 
 ### 1. Build
 ```bash
